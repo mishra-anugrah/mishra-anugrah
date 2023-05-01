@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Front-end developer (React.js)
+- 🌱 I’m currently learning Node.js
+- 💬 Ask me about React.js, Javascript
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mishra-anugrah/)
+- ⚡ Fun fact: Photography and Cycling reduce stress levels
+
 <!--
 **mishra-anugrah/mishra-anugrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
